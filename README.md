@@ -6,6 +6,8 @@ Notre programme est un outil permettant l’étude et l’extraction d’informa
 - l'adresse de l'hôte  
 Ce programme a été réalisé par Patrick JEANJEAN, Mendy PAUL et Sergey POGHOSYAN
 
+lien vers le dépôt Git : https://github.com/endspigel/SUJET2_JEANJEAN_Patrick_POGHOSYAN_Sergey_PAUL_Mendy.git
+
 ## Documentation des fonctions
 
 //permet de vérifier la bonne validité des chiffres saisie au clavier
