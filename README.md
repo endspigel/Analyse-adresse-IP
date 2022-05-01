@@ -6,7 +6,7 @@ Notre programme est un outil permettant l’étude et l’extraction d’informa
 - l'adresse de l'hôte  
 Ce programme a été réalisé par Patrick JEANJEAN, Mendy PAUL et Sergey POGHOSYAN
 
-Documentation des fonctions
+## Documentation des fonctions
 
 //permet de vérifier la bonne validité des chiffres saisie au clavier
 //nécessite une adresse ip
