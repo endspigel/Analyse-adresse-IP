@@ -1,4 +1,4 @@
-# SUJET2_JEANJEAN_Patrick_POGHOSYAN_Sergey_PAUL_Mendy
+# SUJET2
 Notre programme est un outil permettant l’étude et l’extraction d’informations provenant d’une adresse IP et de son masque réseau. Il reconnaît : 
 - le type de l'adresse IP (publique, privé, localhost, multicast ou broadcast); 
 - la classe de l'adresse (A, B, C, D, E); 
